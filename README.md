@@ -1,3 +1,9 @@
+## Nombres
+Andres Barrios
+Santiago Panadero
+Samuel Rodriguez
+
+
 # Parcial de Bash en Debian 13: respuestas justificadas
 
 ## Tabla resumen
